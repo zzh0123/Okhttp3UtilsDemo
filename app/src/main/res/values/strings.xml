@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Okhttp3UtilsDemo</string>
+    <string name="getSycRequest">同步get请求</string>
+    <string name="getAsycRequest">异步get请求</string>
+    <string name="postAsycRequest">异步post请求</string>
+</resources>
